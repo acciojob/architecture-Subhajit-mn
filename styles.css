@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	width: 1100px;
+}
+table, th, td{
+	border: 1px solid;
+	border-collapse: collapse;
+}
+.first_last{
+	width: 200;
+}
+.middle_col{
+	width: 600;
+}
