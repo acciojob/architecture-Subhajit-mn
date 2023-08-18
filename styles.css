@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body{
 	width: 1100px;
+	background-color: skyblue;
 }
 table, th, td{
 	border: 1px solid;
